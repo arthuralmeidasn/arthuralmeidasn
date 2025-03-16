@@ -1,6 +1,6 @@
 ## Eae! Eu sou Arthur
 
-- 🔭 Atualamente estou trabalhando com front-end
+- 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Estudando C
 - 🔎 Procurando o autodesenvolvimento pessoal e profissional
 
