@@ -9,6 +9,7 @@
   <img align="center" alt="Art-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Art-C" height="30" width="40" i class="devicon-threedsmax-plain colored"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"">  
+  <img align="center" alt="Art-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-original.svg">  
 </div>
 
 ##
