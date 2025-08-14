@@ -1,6 +1,5 @@
-## Eae! Eu sou Arthur
+## Eae!
 
-- 🌱 Estudando C
   
 [![Arthur Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuralmeidasn&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
