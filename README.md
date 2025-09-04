@@ -13,7 +13,7 @@ Me chamo Arthur de Almeida Santos, tenho 20 anos e moro no estado de São Paulo.
   
 </div>
 
----
+##
 
 ### 👨‍💻 Linguagens e Tecnologias
 
