@@ -66,8 +66,3 @@ Me chamo Arthur de Almeida Santos, tenho 20 anos e moro no estado de São Paulo.
 <br/>
 
 ##
-
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuralmeidasn&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
