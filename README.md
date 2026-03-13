@@ -1,4 +1,4 @@
-# 😎 Arthur Almeida
+# 🥶 Arthur De Almeida
 
 **`Desenvolvedor de Software`**
 
