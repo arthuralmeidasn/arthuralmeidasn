@@ -1,8 +1,11 @@
-# 🥶 Arthur De Almeida
+# 🗡️ Arthur De Almeida
 
 **`Desenvolvedor de Software`**
 
-Me chamo Arthur de Almeida Santos, tenho 20 anos e moro no estado de São Paulo. Atualmente estou cursando Engenharia Da Computação no Mackenzie. Entusiasta de tecnologia, com forte inclinação para o aprendizado contínuo e aplicação de novas ferramentas.
+Engenharia da Computação no Instituto Presbiteriano Mackenzie
+
+📍 São Paulo, SP.
+💻 Entusiasta de tecnologia dedicado a construir projetos sólidos e aprender algo novo todos os dias.
 
 <br/>
 
