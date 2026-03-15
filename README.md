@@ -5,6 +5,7 @@
 Engenharia da Computação no Instituto Presbiteriano Mackenzie.
   
 São Paulo, SP.
+
 Entusiasta de tecnologia dedicado a construir projetos sólidos e aprender algo novo todos os dias.
 
 <br/>
