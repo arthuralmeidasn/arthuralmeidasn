@@ -1,12 +1,10 @@
-# Arthur De Almeida
+# ⚡ Arthur De Almeida
 
-**`Desenvolvedor de Software`**
+**`Computer Engineering Student | Software Developer`**
 
-Engenharia da Computação no Instituto Presbiteriano Mackenzie.
-  
-São Paulo, SP.
+📍 São Paulo, Brazil
 
-Entusiasta de tecnologia dedicado a construir projetos sólidos e aprender algo novo todos os dias.
+Just programming 
 
 <br/>
 
