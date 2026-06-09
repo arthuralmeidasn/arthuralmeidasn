@@ -4,7 +4,7 @@
 
 📍 São Paulo, Brazil
 
-Just programming 
+Just coding!
 
 <br/>
 
