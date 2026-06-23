@@ -1,4 +1,4 @@
-# ⚡ Arthur De Almeida
+# Arthur De Almeida
 
 **`Computer Engineering Student | Software Developer`**
 
