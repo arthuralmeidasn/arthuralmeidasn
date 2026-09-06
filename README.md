@@ -2,9 +2,9 @@
 
 **`Computer Engineering Student | Software Developer`**
 
-📍 São Paulo, Brazil
+Hi, I'm Arthur!
 
-Just coding!
+I am a Computer Engineering student based in São Paulo, passionate about solving real-world problems through code. My professional background in the financial sector has given me a strong analytical mindset, allowing me to bridge business logic with software engineering to build efficient and scalable solutions.
 
 <br/>
 
