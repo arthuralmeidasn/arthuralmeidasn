@@ -17,7 +17,7 @@ I am a Computer Engineering student based in São Paulo, passionate about solvin
 
 ##
 
-### 👨‍💻 Linguagens e Tecnologias
+### 👨‍💻 Languages ​​and Technologies
 
 <img
     align="left"
