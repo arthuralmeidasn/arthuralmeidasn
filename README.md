@@ -39,11 +39,11 @@ I am a Computer Engineering student based in São Paulo, passionate about solvin
 
 <img
     align="left"
-    alt="C"
-    title="C"
+    alt="SQL"
+    title="SQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
 
 <img
